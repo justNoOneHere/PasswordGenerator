@@ -37,3 +37,7 @@ The generated wordlist `wordlist_char3.txt` will contain all possible combinatio
 # C is Better !!
 
 YES C is better see the speed of passwordgenerator.c 
+
+<div align="center">
+"Please note that this script is for educational purposes only and should not be used for any malicious or unethical activities."
+</div>
